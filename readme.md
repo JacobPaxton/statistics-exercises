@@ -1,1 +1,1 @@
-This repo contains my work for the Codeup Statistics module.
+This repository contains my work for the Codeup Statistics module.
